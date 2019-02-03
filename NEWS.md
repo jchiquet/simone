@@ -1,6 +1,6 @@
 NEWS/Changelog
 
-1.0-4	(2016-02-03)
+1.0-4	(2019-02-03)
     +   Replacing "mixer" by "blockmodels"
     +   registering C functions
 
