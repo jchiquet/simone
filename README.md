@@ -7,6 +7,8 @@
 status](https://travis-ci.org/jchiquet/simone.svg?branch=master)](https://travis-ci.org/jchiquet/simone)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/jchiquet/simone?branch=master&svg=true)](https://ci.appveyor.com/project/jchiquet/simone)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/simone)](https://cran.r-project.org/package=simone)
 
 > The goals of SIMoNe is to implement methods for the inference of
 > co-expression networks based on partial correlation coefficients from
@@ -15,6 +17,14 @@ status](https://ci.appveyor.com/api/projects/status/github/jchiquet/simone?branc
 > different experimental conditions and therefore not identically
 > distributed. In this particular case, multiple but related networks
 > are inferred on one simone run.
+
+To install CRAN version,
+
+``` r
+install.packages("simone")
+```
+
+To install dev version,
 
 ``` r
 devtools::install_github("jchiquet/simone")
